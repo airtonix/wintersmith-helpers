@@ -1,0 +1,30 @@
+{
+  "name": "wintersmith-helpers",
+  "version": "0.0.1",
+  "homepage": "https://github.com/airtonix/wintersmith-helpers/",
+  "description": "A collection of template helpers for wintersmith, the static site generator.",
+  "keywords": [
+    "static",
+    "website",
+    "wintersmith",
+    "helpers"
+  ],
+  "author": "Zenobius Jiricek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airtonix/wintersmith-helpers/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/airtonix/wintersmith-helpers.git"
+  },
+  "main": "index.coffee",
+  "scripts": {
+  },
+  "dependancies": {
+    "wintersmith": "~2.0.10",
+    "coffee-script": "~1.7.1",
+    "wintersmith-coffee": "~0.2.1",
+    "lodash": "~2.4.1"
+  }
+}
